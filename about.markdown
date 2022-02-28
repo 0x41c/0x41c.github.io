@@ -23,7 +23,7 @@ can't teach it.
 *A swift runtime interface with more to come*:
 
 - Project: [Bridge](https://github.com/0x41c/Bridge)
-- Wiki: [Bridge Wiki](https://github.com/0x41c/Bridge/Wiki)
+- Wiki: [Bridge Wiki](https://github.com/0x41c/Bridge/wiki)
 
 *List macho segments in swift*:
 
