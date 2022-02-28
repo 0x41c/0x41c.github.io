@@ -1,0 +1,17 @@
+title: Cero's Blog
+email: c0dineDev@gmail.com
+description: >-
+  Experience the world through the abstract concepts that allow it to exist... Or just program them.
+baseurl: ""
+url: "" 
+twitter_username: '0x41c'
+github_username:  c0dine
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
